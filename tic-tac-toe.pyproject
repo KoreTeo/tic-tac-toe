@@ -1,0 +1,15 @@
+{
+    "files": [
+        "MainWindow.py",
+        "settings.ui",
+        "stats.ui",
+        "GameModel.py",
+        "SettingsDialog.py",
+        "StatsDialog.py",
+        "main.py",
+        "GameWindow.py",
+        "NameInputDialog.py",
+        "main_window.ui",
+        "styles.qss"
+    ]
+}
